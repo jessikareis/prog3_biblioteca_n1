@@ -1,0 +1,48 @@
+[ {
+  "titulo" : "E agora, José?",
+  "codigo" : 2,
+  "autores" : [ {
+    "nome" : "Carlos Drummond de Andrade",
+    "nacionalidade" : "Brasileiro",
+    "codigo" : 2
+  } ],
+  "exemplares" : [ {
+    "dataAquisicao" : "21/08/2022",
+    "codigo" : 2,
+    "emprestado" : false
+  } ]
+}, {
+  "titulo" : "Dom Casmurro",
+  "codigo" : 3,
+  "autores" : [ {
+    "nome" : "Machado de Assis",
+    "nacionalidade" : "Brasileiro",
+    "codigo" : 1
+  } ],
+  "exemplares" : [ {
+    "dataAquisicao" : "22/09/2022",
+    "codigo" : 2,
+    "emprestado" : false
+  } ]
+}, {
+  "titulo" : "Quincas Borba",
+  "codigo" : 4,
+  "autores" : [ {
+    "nome" : "Machado de Assis",
+    "nacionalidade" : "Brasileiro",
+    "codigo" : 1
+  } ],
+  "exemplares" : [ {
+    "dataAquisicao" : "18/10/2022",
+    "codigo" : 2,
+    "emprestado" : false
+  }, {
+    "dataAquisicao" : "",
+    "codigo" : 2,
+    "emprestado" : false
+  }, {
+    "dataAquisicao" : "",
+    "codigo" : 2,
+    "emprestado" : false
+  } ]
+} ]

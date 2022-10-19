@@ -1,0 +1,9 @@
+[ {
+  "nome" : "Machado de Assis",
+  "nacionalidade" : "Brasileiro",
+  "codigo" : 1
+}, {
+  "nome" : "Carlos Drummond de Andrade",
+  "nacionalidade" : "Brasileiro",
+  "codigo" : 2
+} ]

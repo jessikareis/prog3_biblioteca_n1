@@ -1,0 +1,14 @@
+[ {
+  "endereco" : "Rua Sete",
+  "codigo" : 1,
+  "telefone" : "22998859899",
+  "nome" : "Jessika Reis",
+  "prazoMaxDevolucao" : 15,
+  "matricula": "1234"
+}, {
+  "endereco" : "Rua blbal",
+  "codigo" : 2,
+  "telefone" : "22552502",
+  "nome" : "Paulo",
+  "prazoMaxDevolucao" : 15
+} ]

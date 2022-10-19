@@ -1,0 +1,97 @@
+[ {
+  "dataEmprestimo" : [ 2022, 10, 16 ],
+  "dataPrevistaDevolucao" : [ 2022, 10, 31 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "dataAquisicao" : "21/08/2022",
+    "codigo" : 2,
+    "emprestado" : true
+  },
+  "leitor" : {
+    "endereco" : "Rua Sete",
+    "codigo" : 1,
+    "telefone" : "22998859899",
+    "nome" : "Jessika Reis",
+    "prazoMaxDevolucao" : 15
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 8, 14 ],
+  "dataPrevistaDevolucao" : [ 2022, 9, 13 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "dataAquisicao" : "22/09/2022",
+    "codigo" : 2,
+    "emprestado" : true
+  },
+  "leitor" : {
+    "endereco" : "Rua Oito",
+    "codigo" : 2,
+    "telefone" : "229988889999",
+    "nome" : "Alan Galante",
+    "prazoMaxDevolucao" : 30
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 7, 14 ],
+  "dataPrevistaDevolucao" : [ 2022, 7, 29 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "dataAquisicao" : "21/08/2022",
+    "codigo" : 2,
+    "emprestado" : true
+  },
+  "leitor" : {
+    "endereco" : "Rua Sete",
+    "codigo" : 1,
+    "telefone" : "22998859899",
+    "nome" : "Jessika Reis",
+    "prazoMaxDevolucao" : 15
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "dataAquisicao" : "21/08/2022",
+    "codigo" : 2,
+    "emprestado" : true
+  },
+  "leitor" : {
+    "endereco" : "Rua Oito",
+    "codigo" : 2,
+    "telefone" : "229988889999",
+    "nome" : "Alan Galante",
+    "prazoMaxDevolucao" : 30
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "dataAquisicao" : "18/10/2022",
+    "codigo" : 2,
+    "emprestado" : true
+  },
+  "leitor" : {
+    "endereco" : "Rua Sete",
+    "codigo" : 1,
+    "telefone" : "22998859899",
+    "nome" : "Jessika Reis",
+    "prazoMaxDevolucao" : 15
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "dataAquisicao" : "21/08/2022",
+    "codigo" : 2,
+    "emprestado" : true
+  },
+  "leitor" : {
+    "endereco" : "Rua Oito",
+    "codigo" : 2,
+    "telefone" : "229988889999",
+    "nome" : "Alan Galante",
+    "prazoMaxDevolucao" : 30
+  }
+} ]
